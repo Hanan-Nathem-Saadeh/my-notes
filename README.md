@@ -1,6 +1,7 @@
 # my-notes
 ## ***introduction about myself :***
-  My name is Hanan Nathem Jalal Saadeh , I am 30 years old, and I am living now in Zarqa, I studied Computer Science and Application at Hashimite University in 2013 with a 3.14 GPA, after my graduation I started teaching math to school students at home, I want to develop my programming skills to find a good job.
+  My name is Hanan Nathem Jalal Saadeh , I am 30 years old, and I am living now in Zarqa, I studied Computer Science and Application at Hashimite University in 2013 with a 3.14 GPA.
+  I'm a highly motivated , Strong, Ambitious and competitive, and I have a passion for continuous learning and development in addition to my high ability to absorb new concepts and find innovative solutions for them, and I have the ability to work individually and with a team, I want to develop my programming skills to find a good job.
 ## ***Learn the fundamentals of a good developer***
         The developers face many small factors that slowly harm their projects, Most of them only show long-term damage. And to avoid being a victim, the developer has to embrace the fundamental laws of software and develop a mindset that helps you make better decisions in programming. Here are some of the key points:
  1. Conceiving The Purpose of Software:
